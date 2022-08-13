@@ -1,6 +1,8 @@
 Hi 👋 My name is Imade
 ======================
 
+<div align="center"><img src="giphy.gif"></div>
+
 Backend developer
 -----------------
 
