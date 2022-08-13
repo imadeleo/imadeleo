@@ -1,4 +1,4 @@
-<h2 align="center">Hey👋 I am Imade Favour <span style="color:rgb(8, 239, 216); background-color:rgb(29,29,29);">IMADELEO 😈</span></he>
+<h2 align="center">Hey👋 I am Imade Favour <span style="color:rgb(8, 239, 216);">IMADELEO </span></h2>
 ======================
 
 <div align="center"><img src="giphy.gif"></div>
