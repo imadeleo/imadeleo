@@ -1,4 +1,4 @@
-<h2 align="center">Hey👋 I am Imade Favour </h2>
+<h2 align="center" style="color: red;">Hey👋 I am Imade Favour </h2>
 
 <div align="center"><img src="giphy.gif"></div>
 
