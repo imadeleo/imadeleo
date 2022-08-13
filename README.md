@@ -1,4 +1,4 @@
-Hi 👋 My name is Imade
+<div align="center">Hey👋 I am Imade Favour `Something Intresting`</div>
 ======================
 
 <div align="center"><img src="giphy.gif"></div>
