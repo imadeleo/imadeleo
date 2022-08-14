@@ -7,6 +7,7 @@ Web developer
 
 * 🌍  I'm based in Africa
 * 🧠  I'm learning Javascript and MySQL
+* 🥶  Check my portfolio webpage for more <a href="#" color="green">coming soon</a>
 * ⚡ Learning and leveling up one day at a time
 
 ### Skills
