@@ -1,6 +1,6 @@
 <h2 align="center">Hey👋 I am Imade Favour </h2>
 
-<div align="center"><img src="giphy.gif"></div>
+<div align="center" border-radius="5px"><img src="giphy.gif"></div>
 
 Web developer
 -----------------
@@ -9,8 +9,10 @@ Web developer
 * 🧠  I'm learning Javascript and MySQL
 * 🥶  Check my portfolio webpage for more <a href="#" color="green">coming soon</a>
 * ⚡ Learning and leveling up one day at a time
+<hr>
 
-### Skills
+### Skills and Tools
+-----------------
 
 <p align="center">
 <!-- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -26,11 +28,13 @@ Web developer
 
 
 ### Socials
+-----------------
 
 <p align="center"> &nbsp;&nbsp; <a href="https://www.github.com/imadeleo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;&nbsp; <a href="http://www.instagram.com/leo.sa.va.ge" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp;&nbsp;&nbsp;  <a href="https://www.linkedin.com/in/imadeleo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <hr>
 
 ### Badges
+-----------------
 
 <b>My GitHub Stats</b>
 
