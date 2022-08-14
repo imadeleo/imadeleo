@@ -2,16 +2,16 @@
 
 <div align="center"><img src="giphy.gif"></div>
 
-Backend developer
+Web developer
 -----------------
 
 * 🌍  I'm based in Africa
-* 🧠  I'm learning Javascript
-* ⚡  Life is good
+* 🧠  I'm learning Javascript and MySQL
+* ⚡ Learning and leveling up one day at a time
 
 ### Skills
 
-<p align="left">
+<p align="center">
 <!-- <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> -->
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -26,7 +26,7 @@ Backend developer
 
 ### Socials
 
-<p align="left"> &nbsp;&nbsp; <a href="https://www.github.com/imadeleo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;&nbsp; <a href="http://www.instagram.com/leo.sa.va.ge" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp;&nbsp;&nbsp;  <a href="https://www.linkedin.com/in/imadeleo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> &nbsp;&nbsp; <a href="https://www.github.com/imadeleo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;&nbsp; <a href="http://www.instagram.com/leo.sa.va.ge" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> &nbsp;&nbsp;&nbsp;  <a href="https://www.linkedin.com/in/imadeleo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <hr>
 
 ### Badges
